@@ -10,4 +10,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fhqk1942)](https://solved.ac/fhqk1942/)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={fhqk1942})](https://solved.ac/{fhqk1942})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fhqk1942)](https://solved.ac/fhqk1942)
