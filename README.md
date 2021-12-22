@@ -12,10 +12,10 @@
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yjshin)(https://solved.ac/dev_yjshin)
 
 
-//[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
 
 
-//[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
+[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
 
 
-//[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
