@@ -14,6 +14,7 @@
 
 
 
-<p align="center"><a href="https://deeprun.tistory.com/"><img src="https://img.shields.io/badge/Tistory blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://deeprun.tistory.com/"/></a> <a href="mailto:yjshin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjshin.dev@gmail.com"/></a></p>
+<p align="center"><a href="https://deeprun.tistory.com/"><img src="https://img.shields.io/badge/Tistory blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://deeprun.tistory.com/"/></a> <a href="mailto:yjshin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yjshin.dev@gmail.com"/></a>
+</p>
 
 
