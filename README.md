@@ -16,6 +16,7 @@
 [![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=Tistory)](https://deeprun.tistory.com/)
 <p align="center"><a href="https://deeprun.tistory.com/"><img src="https://tistory-readme-stats.vercel.app/api/badge/Tistory-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=FF6A00&link=https://deeprun.tistory.com/"/></a> 
   
+  <a href="https://deeprun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Notion&logoColor=000000&style=plastic"/></a>
   <a href="https://tattered-scourge-d9a.notion.site/a2aee5bf50e34872b0129140bf605c72" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=000000&style=plastic"/></a> <a href="mailto:yjshin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&style=plastic&link=yjshin.dev@gmail.com"/></a>
 </p>
 
