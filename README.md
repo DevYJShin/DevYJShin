@@ -17,8 +17,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dev-yjshin)
 <a href="https://velog.io/@dev-yjshin">
     <img 
-        src="http://img.shields.io/badge/-222222?style=plastic&logo=velog&link=https://velog.io/@dev-yjshin"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-222222?style=plastic&logo=velog&link=https://velog.io/@dev-yjshin">
 </a>
 
 
