@@ -17,3 +17,4 @@
 </p>
 
 
+![snake gif](https://github.com/DevYJShin/DevYJShin/blob/output/github-contribution-grid-snake.svg)
