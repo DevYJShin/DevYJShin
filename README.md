@@ -18,4 +18,4 @@
 
 
 
-[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=Tistory)](https://deeprun.tistory.com/)(https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dev-yjshin)[![Velog's GitHub stats]
+[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=Tistory)](https://deeprun.tistory.com/)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dev-yjshin)
