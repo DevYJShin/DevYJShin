@@ -21,4 +21,4 @@
 [![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=Tistory)](https://deeprun.tistory.com/)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dev-yjshin)
 
 
-![snake gif](https://github.com/DevYJShin/DevYJShin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevYJShin/DevYJShin/blob/output/github-contribution-grid-snake.gif)
