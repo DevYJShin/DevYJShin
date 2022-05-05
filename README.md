@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-
-
-
 ![DevYJShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevYJShin) 
 
 ![DevYJShin's GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevYJShin&theme=vue)
 
 [![DevYJShin's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYJShin&layout=compact&langs_count=8)](https://github.com/DevYJShin/README.md)
 
-
-
-[![Solved.ac
-](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DevYJShin&count_bg=%23CCE2EB&title_bg=%23ECD5FF&icon=&icon_color=%23A8A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
