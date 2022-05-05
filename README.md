@@ -3,10 +3,12 @@
 
 
 
-![DevYJShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevYJShin)
+![DevYJShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevYJShin) 
 
+![DevYJShin's GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevYJShin&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYJShin&layout=compact&langs_count=8)](https://github.com/DevYJShin/README.md)
+[![DevYJShin's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYJShin&layout=compact&langs_count=8)](https://github.com/DevYJShin/README.md)
+
 
 
 [![Solved.ac
@@ -20,3 +22,8 @@
 
 
 ![snake gif](https://github.com/DevYJShin/DevYJShin/blob/output/github-contribution-grid-snake.gif)
+
+<img src="https://raw.githubusercontent.com/DevYJShin/DevYJShin/output/github-contribution-grid-snake.svg" />
+
+
+
