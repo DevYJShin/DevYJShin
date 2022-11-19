@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![DevYJShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevYJShin) 
+![DevYJShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevYJShin) [![DevYJShin's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYJShin&layout=compact&langs_count=8)](https://github.com/DevYJShin/README.md) 
 
 ![DevYJShin's GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevYJShin&theme=vue)
 
-[![DevYJShin's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYJShin&layout=compact&langs_count=8)](https://github.com/DevYJShin/README.md)
+
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yjshin)](https://solved.ac/dev_yjshin)
 
@@ -18,4 +18,4 @@
 <img src="https://raw.githubusercontent.com/DevYJShin/DevYJShin/output/github-contribution-grid-snake.svg" />
 -->
 
-
+![AWS_SAP](https://github.com/DevYJShin/DevYJShin/blob/main/image/aws-certified-solutions-architect-professional.png)
